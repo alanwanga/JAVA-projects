@@ -1,1 +1,2 @@
-# Java blog: https://alanwanga.github.io/
+# JAVA blog
+https://alanwanga.github.io/

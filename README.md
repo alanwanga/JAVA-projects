@@ -1,1 +1,1 @@
-# Java Blogs You Should Be Reading: alanwanga.github.io
+# Java blog: https://alanwanga.github.io/

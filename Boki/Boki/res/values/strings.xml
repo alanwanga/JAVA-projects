@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boki</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">List</string>
+    <string name="title_activity_add">Add</string>
+    <string name="title_activity_sum">Sum</string>
+    <string name="action_add">Add</string>
+    <string name="action_list">List</string>
+    <string name="action_sum">Sum</string>
+    <string name="action_main">Main</string>
+    <string name="button_add">Add to List</string>
+    <string name="list_stat">stat</string>
+    <string name="sum_stat">stat</string>
+    <string name="timer">timer</string>
+    <string name="version">version</string>
+
+</resources>
